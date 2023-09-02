@@ -1,6 +1,8 @@
 # Trabalho (Integração e Entrega contínua CI-CD)
 
 **Equipe:** Luciano Pereira Targino, Samuel Porto, Raylson Brauna, Felipe Holanda
+
+Local da DAG contruida com 4 operadores: dags/example_dags/unifametro_trabalho.py
   
 1- **Execultar o comando abaixo para adicionar o usuario Admin airflow:**
 
